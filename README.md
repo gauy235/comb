@@ -1,4 +1,4 @@
-## 技能財富 尊嚴
+## 技能就是财富跟尊严
 # Two algorithms to find primes
 MinePrime: the traditional algorithm to find primes.<br/>
 EtchPrime: a new algorithm to find primes.
