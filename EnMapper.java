@@ -1,13 +1,11 @@
 package lgpl3.recycle;
 
 /**
- * The English map.<br/>
- *
  * @version 2023/10/27_19:20:00<br/>
  *          <a target="_blank" href="http://c64.tw/w20/o/srchSrc.jsp?nameOfClass=EnMapper" >src</a>
  *
  */
-public class EnMapper {
+public abstract class EnMapper {
 
 	// TreeMap<String, String> M = new TreeMap<String, String>(String.CASE_INSENSITIVE_ORDER); //important
 	// public static TreeMap<String, String> M = new TreeMap<String, String>(Collator.getInstance(Locale.SIMPLIFIED_CHINESE));
