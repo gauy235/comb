@@ -18,6 +18,7 @@ public class EnMapper {
 	static {
 
 		// entrusted to contribute 委託
+		// feasibility 可行性
 
 		M.put("HealthBureau", "衛生局");
 
