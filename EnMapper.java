@@ -10,6 +10,7 @@ public abstract class EnMapper { // public static LinkedHashMap<String, String> 
 	// TreeMap<String, String> M = new TreeMap<String, String>(String.CASE_INSENSITIVE_ORDER); //important
 	// public static TreeMap<String, String> M = new TreeMap<String, String>(Collator.getInstance(Locale.SIMPLIFIED_CHINESE));
 
+	// stimulate 刺激 興奮
 	// entrusted to contribute 委託
 	// feasibility 可行性
 	// HealthBureau 衛生局
