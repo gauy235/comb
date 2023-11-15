@@ -1,4 +1,4 @@
-package lgpl3.recycle; 22
+package lgpl3.recycle; 55A
 
 /**
  * @version 2023/10/27_19:20:00<br/>
