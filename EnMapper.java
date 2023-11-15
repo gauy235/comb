@@ -5,7 +5,7 @@ package lgpl3.recycle;
  *          <a target="_blank" href="http://c64.tw/w20/o/srchSrc.jsp?nameOfClass=EnMapper" >src</a>
  *
  */
-public abstract class EnMapper { // --a9 public static LinkedHashMap<String, String> M = new LinkedHashMap<>();
+public abstract class EnMapper { // public static LinkedHashMap<String, String> M = new LinkedHashMap<>();
 
 	// TreeMap<String, String> M = new TreeMap<String, String>(String.CASE_INSENSITIVE_ORDER); //important
 	// public static TreeMap<String, String> M = new TreeMap<String, String>(Collator.getInstance(Locale.SIMPLIFIED_CHINESE));
