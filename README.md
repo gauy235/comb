@@ -44,7 +44,7 @@ start javaw -cp ./\*; lgpl3.recycle.Zw99_ScreenCapture
 # User Interface
 ### MinePrime tab: <br/>
 <img
-		src="http://c64.tw/r20/main/image/prime64UI_MP.png"
+		src="https://github.com/gauy235/comb/releases/download/otherFile/prime64UI_MP.png"
 		width="350px"
 		border="0" /> 
 <br/>
