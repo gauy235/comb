@@ -50,25 +50,25 @@ start javaw -cp ./\*; lgpl3.recycle.Zw99_ScreenCapture
 <br/>
 ### EtchPrime tab: <br/>
 <img
-		src="http://c64.tw/r20/main/image/prime64UI_EP.png"
+		src="https://github.com/gauy235/comb/releases/download/otherFile/prime64UI_EP.png"
 		width="350px"
 		border="0" /> 
 <br/>
 ### DIY tab: <br/>
 <img
-		src="http://c64.tw/r20/main/image/prime64UI_DIY.png"
+		src="https://github.com/gauy235/comb/releases/download/otherFile/prime64UI_DIY.png"
 		width="350px"
 		border="0" /> 
 <br/>
 ### Conf tab: <br/>
 <img
-		src="http://c64.tw/r20/main/image/prime64UI_Conf.png"
+		src="https://github.com/gauy235/comb/releases/download/otherFile/prime64UI_Conf.png"
 		width="350px"
 		border="0" /> 
 <br/>
 ### Rec tab (100 times): <br/>
 <img
-		src="http://c64.tw/r20/main/image/prime64UI_Rec.png"
+		src="https://github.com/gauy235/comb/releases/download/otherFile/prime64UI_Rec.png"
 		width="350px"
 		border="0" /> 
 <br/>
