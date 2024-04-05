@@ -7,7 +7,7 @@ EtchPrime: a new algorithm to find primes.
 then practically the new algorithm has better performance than the traditional algorithm as 100 times faster.
 
 # Download
-https://github.com/gau235/prime64/releases/download/free_winX86/prime64Lgpl3Portable.zip<br/>
+https://github.com/gauy235/comb/releases/download/winX64/prime64Lgpl3Portable.zip<br/>
 (下载时请另开新视窗后按 Enter, 抱歉这是无奈)
 <br/>
 <br/>
